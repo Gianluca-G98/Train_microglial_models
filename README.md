@@ -16,7 +16,7 @@ If you use this software, please cite it as below.
   author = {Gragnaniello, Gianluca},  
   month = {12},  
   title = {{Deep NN for microglial semantic segmentation}},  
-  url = {https://github.com/Gianluca-G98/Train_models},  
+  url = {https://github.com/Gianluca-G98/Train_microglial_models},  
   version = {1.0},  
   year = {2022}  
 }

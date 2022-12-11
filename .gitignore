@@ -1,0 +1,6 @@
+artifacts/
+wandb/
+__pycache__/
+_session_history.ipynb
+Model_classes/__pycache__/
+w&b_secret_key.json

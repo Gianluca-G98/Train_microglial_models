@@ -12,10 +12,10 @@ After each successful run, you will find an image in the *Predicted_images* fold
 # Citation (BibTeX)
 If you use this software, please cite it as below.
 
-@software{Ggragnaniello_microglia_ss2022,
+@software{Ggragnaniello_microglia_modeltrainer2022,
   author = {Gragnaniello, Gianluca},  
   month = {12},  
-  title = {{Deep NN for microglial semantic segmentation}},  
+  title = {{Deep NN model trainer for microglial semantic segmentation}},  
   url = {https://github.com/Gianluca-G98/Train_microglial_models},  
   version = {1.0},  
   year = {2022}  

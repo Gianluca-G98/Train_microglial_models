@@ -1,5 +1,5 @@
 **Trains Deep Neural Networks for the task of semantic segmentation of microglial cell**
-![Banner](.github/Banner.png)
+![Banner](.github/Banner.jpg)
 # Usage
 The project contains different scripts for training neural network architectures in the task of semantic segmentation. Weights&biases is used to load data and log the training results. A .json file is used to configure every run. I have included an "example" .json, you have to put the values corresponding to your wandb profile and projects. 
 
